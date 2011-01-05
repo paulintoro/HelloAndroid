@@ -1,0 +1,10 @@
+<resources>
+	<style name="StyleText1">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">#EC9237</item>
+	</style>
+	<style name="StyleText2">
+		<item name="android:textSize">25sp</item>
+		<item name="android:textColor">#FF7F7C</item>
+	</style>
+</resources>
